@@ -1,2 +1,3 @@
 # CPP-Classes-Inheritance-Demo
- Code used to demonstrate the syntax and functionality of CPP classes and inheritance to fellow PhD student who was attemting to convert python code to CPP (a language new to them) to increase its efficiency. 
+
+This repository contains the code used to demonstrate the functionality of classes and inheritence in C++ to a fellow Ph.D. student who was converting research code from python to C++ (a language they did not previously know) for efficiency. The code outputs debug text whenever a method is called, identifying which method and whether or not it came from the parent class or child class. The gramCalc() function computes a Gramian type quantity specific to the example I was discussing with my colleague at the time, but could easily be replaced with any other function which the user wants to call/inherit from a class.
